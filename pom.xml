@@ -9,12 +9,12 @@
 <distributionManagement>
 	<snapshotRepository>
 		<id>maven-snapshots</id>
-		<url>http://localhost:8082/repository/maven-snapshots/</url>
+		<url>http://18.217.200.70:8081/repository/artifacts_repo/</url>
 		<layout>default</layout>
 	</snapshotRepository>
 	<repository>
 		<id>maven-releases</id>
-		<url>http://localhost:8082/repository/maven-releases/</url>
+		<url>http://18.217.200.70:8081/repository/artifacts_repo/</url>
 		<layout>default</layout>
 	</repository>
 </distributionManagement>
